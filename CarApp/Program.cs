@@ -18,7 +18,7 @@ namespace CarApp
 
 
 
-            // Task 2: Set the Manufacturer of door 3 to "GM"
+            // Task 2: Set the Manufacturer of door 1 to "GM"
         }
     }
 }
