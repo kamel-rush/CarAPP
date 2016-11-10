@@ -13,7 +13,7 @@ namespace CarApp
 
         public Wheel[] carWheels;
 
-        private Door[] carDoors;
+        public Door[] carDoors;
 
         public string Color
         {
